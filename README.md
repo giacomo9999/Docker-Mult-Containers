@@ -8,5 +8,4 @@ docker run redis
 docker run giacomo9999/visits  
 
 To build composed app:  
-docker-compose build  
-docker-compose up  
+docker-compose up --build
